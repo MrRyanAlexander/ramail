@@ -1,0 +1,23 @@
+<html>
+<body>
+<h1>Hello</h1>
+I meet all of your qualifications accept for being a LAMP stack guru. I only wrote PHP to make SML requests to a feed. I build a c program that generates websites. These websites are .php and I had to test out these out beforehand. After getting the php page to work as expected, which was more than simple, I wrote the generator to spit out the desired PHP. Mind you this is a terrible C program where I make shit use of pointers, but it was just for fun and to stretch my knowledge. As with any language, I first learn about variables and scope, functions, callbacks, and get an overall feel for how the language works. Then I just start writing in it with the aid of the language docs, stackoverflow and tutorials. If I remember correctly, you declare variables in PHP with the $var = "Hello World" and you can loop $arrayOfData = array("One", "Two", "Three") with foreach($arrayOfData as $things) { echo $things }. The above is just me being silly. If that code is wrong, it's because I only wrote PHP for a day in Dec 2014. 
+
+I have used AWS and want to learn more about it. I have also used Google App Engine and Parse, both offer similar services, but Parse is higher level. 
+
+I am getting back into the habit or should I say again building a habit of pushing all of my work to github. I even have my website hosted as a github page. https://mrryanalexander.guthub.io
+
+I also love writing sass styles and you'll see some of my sass at https://github.com/MrRyanAlexander/mrryanalexander.github.io/tree/master/_sass
+
+Please review one of my attached resumes, as I have included both  Word.docx and PDF versions for your convenience. Further you will find several links to working examples and to source files.
+
+<h3>All the best, Ryan</h3>
+<h4>Sent with ramail.py - https://github.com/MrRyanAlexander/ramail/blob/master/ramail.py</h4>
+
+Full Stack Web Developer
+wbpzn-4998849698@job.craigslist.org
+</body>
+</html>
+
+
+
